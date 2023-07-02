@@ -12,5 +12,7 @@ logo mealapp pada navbar
 berikut adalah api yang dibutuhkan
 
 List of Categories : https://www.themealdb.com/api/json/v1/1/categories.php
+
 Filter Category : www.themealdb.com/api/json/v1/1/filter.php?c={category-name}
+
 Detail Meal : www.themealdb.com/api/json/v1/1/lookup.php?i={meal-id}
